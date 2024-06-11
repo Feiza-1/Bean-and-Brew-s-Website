@@ -34,6 +34,7 @@ The owner of Bean and Brew has requested the development of a digital solution t
 7. Social media posting/sharing features ('Rate my cake')
 
 # Project Structure
+
 src/: Contains the source code for the digital solution
 docs/: Documentation related to the project
 tests/: Test cases and test suites
