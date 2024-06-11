@@ -35,10 +35,10 @@ The owner of Bean and Brew has requested the development of a digital solution t
 
 # Project Structure
 
-src/: Contains the source code for the digital solution
-docs/: Documentation related to the project
-tests/: Test cases and test suites
-config/: Configuration files
+1. src/: Contains the source code for the digital solution
+2. docs/: Documentation related to the project
+3. tests/: Test cases and test suites
+4. config/: Configuration files
 
 # Getting Started
 To get started with the Bean and Brew Digital Solution, follow the instructions in the installation guide.
